@@ -1,4 +1,4 @@
-<h1 align="center">Ms. Keisha</h1>
+<h1 align="center">Hi! I'm Keisha👋</h1>
 <h3 align="center">A passionate Quality Engineer Sprinter</h3>
 
 - 🌱 I’m currently learning **SQL, C#**
